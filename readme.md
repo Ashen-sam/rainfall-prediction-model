@@ -41,11 +41,7 @@ This project focuses on forecasting rainfall using historical weather patterns. 
 - Focused on Kaggle competition requirements for accurate rainfall prediction.  
 - End-to-end workflow implemented in **Google Colab** for reproducibility.
 
----
 
-## Usage
-
-1. Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/rainfall-prediction.git
